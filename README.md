@@ -18,7 +18,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="lukastong's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lukastong&show_icons=true&hide_border=true" />
+<img align="left" alt="tyreezhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tyreezhao&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Chaz_Zhao
 [youtube]: https://www.youtube.com/channel/UCcTlrwEwgWaqxTTN5Av9QJg
