@@ -1,8 +1,8 @@
 ### Hi there, I'm Zhao Tong 👋
 
-## I'm a Husband, Father, Developer!!
+## I'm a Husband, Father, Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2020 Goals: read more books
 - ⚡ Fun fact: I love to play basketball and crossfit
 
@@ -22,4 +22,4 @@
 
 [twitter]: https://twitter.com/Chaz_Zhao
 [youtube]: https://www.youtube.com/channel/UCcTlrwEwgWaqxTTN5Av9QJg
-[instagram]: https://www.instagram.com/_zh_tg/
+[instagram]: https://www.instagram.com/tyreezhao/
