@@ -1,6 +1,6 @@
 ### Hi there, I'm Zhao Tong 👋
 
-## I'm a Husband, Father, Developer
+## boy dad, developer
 
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: read more books
