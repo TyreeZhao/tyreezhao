@@ -20,6 +20,6 @@
 
 <img align="left" alt="tyreezhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tyreezhao&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/Chaz_Zhao
+[twitter]: https://twitter.com/TyreeZhao
 [youtube]: https://www.youtube.com/channel/UCcTlrwEwgWaqxTTN5Av9QJg
 [instagram]: https://www.instagram.com/tyreezhao/
