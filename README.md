@@ -2,9 +2,8 @@
 
 ## boy dad, developer
 
-- 🌱 I’m currently learning everything
-- 🥅 2021 Goals: read more books
-- ⚡ Fun fact: I love to play basketball and crossfit
+- 🥅 2022 Goals: AI, read more books
+- ⚡ Fun fact: Fitness
 
 ### Connect with me:
 
