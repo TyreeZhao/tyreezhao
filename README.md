@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-i'm boy dad, web developer
+i'm SDE, living in beijing.
+
+
